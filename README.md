@@ -8,15 +8,15 @@ python sgf-to-png.py <path-to-sgf.sgf>
  will generate the output gif `<path-to-sgf.gif>`
 
 
-# dependencies
+# Dependencies
 
-## python dependencies
+## Python Dependencies
 
 -   numpy
 -   matplotlib
 -   sgf
 
-## external dependencies
+## External Dependencies
 
 -   imagemagick
 
