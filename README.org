@@ -1,0 +1,16 @@
+#+title: Readme
+
+* Usage
+
+Running
+#+BEGIN_SRC bash
+python sgf-to-png.py <path-to-sgf.sgf>
+#+END_SR
+ will generate the output src_bash{<path-to-sgf.gif>}
+* dependencies
+** python dependencies
+- numpy
+- matplotlib
+- sgf
+** external dependencies
+- imagemagick

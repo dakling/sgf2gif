@@ -2,7 +2,8 @@
 
 # usage: python sgf-to-png.py <path-to-sgf.sgf>
 # will generate the output <path-to-sgf.gif>
-# dependencies: numpy, matplotlib, sgf
+# python dependencies: numpy, matplotlib, sgf
+# external dependencies: imagemagick
 
 # adapted from https://stackoverflow.com/questions/24563513/drawing-a-go-board-with-matplotlib
 # and https://stackoverflow.com/questions/2318288/how-to-use-custom-png-image-marker-with-plot
